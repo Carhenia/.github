@@ -4,7 +4,7 @@ labels: [Suggestion]
 body:
   - type: markdown
     attributes:
-      value: |
+      value:
             
         Have a general suggestion for us? Submit it here! Please use the other forms for mod suggestions & bug reports.
           
