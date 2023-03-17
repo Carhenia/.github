@@ -1,6 +1,6 @@
 name: General Suggestion
 description: Suggest a change or addition to the modpack
-labels: [Suggestion]
+labels: [enhancement]
 body:
   - type: markdown
     attributes:
